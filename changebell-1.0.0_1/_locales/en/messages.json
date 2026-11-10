@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "ChangeBell"
+  },
+  "extDescription": {
+    "message": "Watches the text you select on a web page and alerts you with a sound and a notification when it changes."
+  }
+}
