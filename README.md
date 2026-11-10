@@ -84,7 +84,7 @@ A reload uses `tabs.reload()`, which keeps the original Referer and adds no hist
 
 ## Privacy
 
-Everything happens in the browser. ChangeBell has no servers, no analytics and no remote code, and sends nothing anywhere. See the [privacy policy](https://tepferviktor.github.io/ChangeBell/).
+Everything happens in the browser. ChangeBell has no servers, no analytics and no remote code, and sends nothing anywhere. See the [privacy policy](https://tepferviktor.github.io/ChangeBell/privacy-policy.html).
 
 ## Development
 
